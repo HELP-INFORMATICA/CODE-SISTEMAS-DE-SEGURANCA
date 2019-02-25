@@ -92,7 +92,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
