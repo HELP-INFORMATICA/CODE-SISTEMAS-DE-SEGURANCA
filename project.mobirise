@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CODE - SISTEMAS DE SEGURANÇA",
-    "currentPage": "page10.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -106,7 +106,7 @@
           },
           "title": "SISTEMAS DE SEGURANÇA",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://api.whatsapp.com/send?phone=556193271791&amp;text=Em%20que%20podemos%20ajud%C3%A1-lo(a)\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://api.whatsapp.com/send?phone=556193271791&amp;text=Ola%Gostaria%20de%20saber%20mais%20sobre%20os%20serviços%20da%20empresa%20CODE%20Sistemas%20de%20Segurança%C3%A1-lo(a)\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
