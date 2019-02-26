@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CODE - SISTEMAS DE SEGURANÇA",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -433,7 +433,7 @@
           },
           "text1": "<b>Localidade:</b><br>Ceilândia Sul",
           "text2": "<strong>Contato</strong><br>\nEmail: valdemarcosta443@gmail.com<br>\nPhone: 55 (61) 99327-1791<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(61) 98511-8878",
-          "text3": "<strong>Links</strong><ul><li>DD TECH</li></ul>",
+          "text3": "<strong><a href=\"https://help-informatica.github.io/DD-TECH/\">Links</a></strong><ul><li><a href=\"https://help-informatica.github.io/DD-TECH/\">DD TECH</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Layout"
