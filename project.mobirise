@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CODE - SISTEMAS DE SEGURANÇA",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -783,7 +783,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bernard-hermant-590626-unsplash-porto-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bernard-hermant-590626-unsplash-1-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
