@@ -14,7 +14,7 @@
     "versionFirst": "4.8.4",
     "siteFonts": [],
     "uniqCompNum": 37,
-    "versionPublish": "4.8.4",
+    "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
@@ -370,7 +370,7 @@
           "title": "Em breve retornaremos.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "form": {
-            "action": "valdemarcosta443@gmail.com",
+            "action": "codesistemasdeseguranca@gmail.com",
             "alerts": {
               "success": "Obrigado por contactar-nos! Em breve responderemos."
             },
